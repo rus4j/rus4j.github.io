@@ -1,0 +1,66 @@
+body {
+    font-family: "Roboto Light", sans-serif;
+}
+
+.resume {
+    font-size: 16px;
+}
+
+.work_position {
+    width: 82%;
+    float: right;
+}
+
+.work_position ul {
+    margin-top: -25px;
+    margin-bottom: 10px;
+}
+
+.date {
+    float: left;
+    font-weight: bold;
+}
+
+sup {
+    color: darkgray;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+li.active a {
+    color: darkgray;
+    cursor: default;
+}
+
+.decorated_link {
+    color: darkblue;
+}
+
+.decorated_link:hover {
+    border-bottom: 2px darkgray dotted;
+}
+
+.gray {
+    filter: opacity(0.3) drop-shadow(0 0 0 darkgray);
+}
+
+.gray:hover {
+    filter: opacity(0.7) drop-shadow(0 0 0 darkgray);
+}
+
+.panel {
+    background: gainsboro;
+    padding: 6px;
+    height: 30px;
+}
+
+footer {
+    font-size: 14px;
+    color: darkgray;
+}
