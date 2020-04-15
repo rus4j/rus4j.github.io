@@ -4,7 +4,7 @@
             <ul>
                 {% for item in site.data.navigationlist.navigation %}
                     <li class="{% if item.url == page.url %} active {% endif %}">
-                        <a href="{{ item.url }}">{{ item.title }}</a>
+                        <a class="header_link" href="{{ item.url }}">{{ item.title }}</a>
                     </li>
                 {% endfor %}
             </ul>
@@ -13,19 +13,19 @@
             <img src="/assets/images/face1.png" width="100"
                  alt="avatar"/>
             <br>
-            <a target="_blank" href="https://twitter.com/rus4j">
+            <a class="header_link" target="_blank" href="https://twitter.com/rus4j">
                 <img src="/assets/images/logos/twitter.png" alt="twitter" width="20" class="gray">
             </a>
-            <a target="_blank" href="https://github.com/rus4j">
+            <a class="header_link" target="_blank" href="https://github.com/rus4j">
                 <img src="/assets/images/logos/github.png" alt="github" width="20" class="gray">
             </a>
-            <a target="_blank" href="https://stackoverflow.com/users/5108737/ruslan?tab=profile">
+            <a class="header_link" target="_blank" href="https://stackoverflow.com/users/5108737/ruslan?tab=profile">
                 <img src="/assets/images/logos/stackoverflow.png" alt="stackoverflow" width="20" class="gray">
             </a>
-            <a target="_blank" href="https://www.linkedin.com/in/ruslan-dibirov-2a1994143/">
+            <a class="header_link" target="_blank" href="https://www.linkedin.com/in/ruslan-dibirov-2a1994143/">
                 <img src="/assets/images/logos/linkedin.png" alt="linkedin" width="20" class="gray">
             </a>
-            <a target="_blank" href="https://www.instagram.com/rostov_papa_/">
+            <a class="header_link" target="_blank" href="https://www.instagram.com/rostov_papa_/">
                 <img src="/assets/images/logos/instagram.png" alt="instagram" width="20" class="gray">
             </a>
 <!--            <a target="_blank" href="#">-->

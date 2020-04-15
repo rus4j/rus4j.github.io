@@ -108,8 +108,8 @@ Java, Spring, JDBC, Vaadin
 </div>
 
 **Certificates**  
-[OCA, Java SE 8 Programmer (1Z0-808)](https://www.youracclaim.com/badges/8510ebc8-88c9-454e-bf23-94d2dd41a31c){:target="_blank" class="decorated_link"}  
-[OCP, Java SE 8 Programmer (1Z0-809)](https://www.youracclaim.com/badges/d0508c70-4a97-4497-8d55-a2b27dd162a5){:target="_blank" class="decorated_link"}
+[OCA, Java SE 8 Programmer (1Z0-808)](https://www.youracclaim.com/badges/8510ebc8-88c9-454e-bf23-94d2dd41a31c)  
+[OCP, Java SE 8 Programmer (1Z0-809)](https://www.youracclaim.com/badges/d0508c70-4a97-4497-8d55-a2b27dd162a5)
 
 **Master's degree**  2018  
 Southern Federal University, Rostov-on-Don  

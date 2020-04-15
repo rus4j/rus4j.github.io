@@ -7,7 +7,7 @@ color: gray
 {% for post in site.posts %}
 
 <div class="post_wrapper">
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<h2><a class="header_link" href="{{ post.url }}">{{ post.title }}</a></h2>
 <sup>{{ post.date | date: "%-d %B %Y" }}</sup>
 <br>
 {{ post.description }}

@@ -27,23 +27,28 @@ sup {
 
 a {
     color: black;
+    border-bottom: 2px black solid;
 }
 
 a:hover {
+    color: darkgray;
     text-decoration: none;
+    border-bottom: 2px darkgray solid;
+}
+
+a.header_link {
+    color: black;
+    border-bottom: none;
+}
+
+a.header_link:hover {
+    text-decoration: none;
+    border-bottom: none;
 }
 
 li.active a {
     color: darkgray;
     cursor: default;
-}
-
-.decorated_link {
-    color: darkblue;
-}
-
-.decorated_link:hover {
-    border-bottom: 2px darkgray dotted;
 }
 
 .gray {
