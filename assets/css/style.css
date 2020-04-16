@@ -25,12 +25,12 @@ sup {
     color: darkgray;
 }
 
-a {
+a, a code {
     color: black;
     border-bottom: 2px black solid;
 }
 
-a:hover {
+a:hover, a code:hover {
     color: darkgray;
     text-decoration: none;
     border-bottom: 2px darkgray solid;
