@@ -53,10 +53,12 @@ li.active a {
 
 .gray {
     filter: opacity(0.3) drop-shadow(0 0 0 darkgray);
+    border-bottom: none;
 }
 
 .gray:hover {
     filter: opacity(0.7) drop-shadow(0 0 0 darkgray);
+    border-bottom: none;
 }
 
 .panel {
