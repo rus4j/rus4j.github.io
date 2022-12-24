@@ -68,6 +68,7 @@ Working on B2B investment platform in CIB (Corporate Investment Business) depart
 
 - Leading the process of decomposing monolithic application into microservices.
 - Acted as a people manager:
+
   - Helping to split a big team (~10+ members) into small feature teams.
   - Optimizing working process by reducing number of unnecesary meetings.
   - Conducting technical interviews.
