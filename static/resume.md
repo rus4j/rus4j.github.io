@@ -23,7 +23,7 @@ title: Resume
 
 **Languages** : Java, Kotlin, JS, TypeScript, SQL
 **Technologies**: Spring stack, Reactive stack, Hibernate, REST, GRPC, JSF, JUnit, Gradle/Maven, ReactJS
-**Tools**: TeamCity/Jenkins/GitLab, Stash, OpenShift, Docker
+**Tools**: CI Tools/GitLab, Stash, OpenShift, Docker
 **Source Control**: Git, SVN  
 **Data Bases**: Oracle/PostgreSQL/SQLServer
 
@@ -64,15 +64,15 @@ Kotlin, Spring/Reactive stack, CQRS, DDD, MySQL
 <div class="work_position" markdown="1">
 
 **<u>Tech Lead Engineer</u>**, _Sber_, Saint-Petersburg, Russia  
-Working on B2B investment platform in CIB (Corporate Investment Business) department of largest national bank.
+Working on B2B investment platform in CIB (Corporate Investment Business) department of the largest national bank.
 
 - Leading the process of decomposing monolithic application into microservices.
 - Acted as a people manager:
-  ++ Helping to split a big team (~10+ members) into small feature teams.
-  ++ Optimizing working process by reducing number of unnecesary meetings.
-  ++ Conducting technical interviews.
-  ++ Conducting workshops on technical topics.
-  ++ Managing 1to1/feedback meetings, grading team members at the end of the querter.
+  - Helping to split a big team (~10+ members) into small feature teams.
+  - Optimizing working process by reducing number of unnecesary meetings.
+  - Conducting technical interviews.
+  - Conducting workshops on technical topics.
+  - Managing 1to1/feedback meetings, grading team members at the end of the querter.
 
 Java/Kotlin, Spring/Hibernate, OpenShift, Kafka, PostgreSQL.
 
