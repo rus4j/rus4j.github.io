@@ -14,7 +14,7 @@ title: Resume
 </div>
 
 - In Software development since 2015. Experienced in building scalable systems (mostly in **Java/Kotlin**) both from scratch and diving into an existing codebase.
-- Currently working as a Software engineer developing SaaS platform for car subsrtiption.
+- Currently working as a Software engineer developing SaaS platform for car subscription.
 
 <div style="float: left; width: 400px;" markdown="1">
 <div class="panel" markdown="1">  
@@ -55,7 +55,7 @@ Working on Subscription project of BelkaCar company, that later evolved into a s
 - Impelementation/Adjustment of the functionality necessary to enter the international market.
 - Integration with payment service, KYC solutions.
 
-Kotlin, Spring/Reactive stack, CQRS, DDD, MySQL
+Kotlin, Spring/Reactive stack, CQRS, DDD, MySQL.
 
 </div>
 <div style="clear: both"></div>
@@ -102,9 +102,9 @@ Java/Kotlin, Spring/Hibernate, OracleDB.
 **<u>FullStack Software Developer (remote)</u>**, _Fusion Connect_, USA  
 Working mainly on web application development with legacy code as well as extending the application with new functionality
 
-- Moved some parts of monolithic app to microservices
-- Built a client for conferencing platform from scratch
-- Set up environment for JUnit testing
+- Moved some parts of monolithic app to microservices.
+- Built a client for conferencing platform from scratch.
+- Set up environment for JUnit testing.
 
 Java/JSF, JBoss/Seam/Hibernate stack, MSSQL.
 
@@ -117,9 +117,9 @@ Java/JSF, JBoss/Seam/Hibernate stack, MSSQL.
 **<u>FullStack Software Developer (part time)</u>**, _JBalance_, Rostov-on-Don, Russia  
 Developing cloud service for catering/farm automation
 
-- Implementing REST/SOAP webService
+- Implementing REST/SOAP webServices.
 
-Jboss/RichFaces/Hibernate/WebService, Angular, Spring
+Jboss/RichFaces/Hibernate/WebService, Angular, Spring.
 
 </div>
 <div style="clear: both"></div>
@@ -130,11 +130,11 @@ Jboss/RichFaces/Hibernate/WebService, Angular, Spring
 **<u>Research fellow</u>**, _Southern Federal University_, Rostov-on-Don, Russia  
 Tech support
 
-- Set up a cluster with 5 power nodes for uptime
-- Implemented reporting automation system
-- Taught the team how to use Kanban board (Trello)
+- Set up a cluster with 5 power nodes for uptime.
+- Implemented reporting automation system.
+- Taught the team how to use Kanban board (Trello).
 
-Linux, Java
+Linux, Java.
 
 </div>
 <div style="clear: both"></div>
@@ -144,7 +144,7 @@ Linux, Java
 
 **<u>Software developer</u>**, _Devexperts_, Rostov-on-Don, Russia  
 Developing highly loaded systems, administrative panels and web services.  
-Java, Spring, JDBC, Vaadin
+Java, Spring, JDBC, Vaadin.
 
 </div>
 
@@ -160,11 +160,11 @@ Java, Spring, JDBC, Vaadin
 [OCP, Java SE 8 Programmer (1Z0-809)](https://www.youracclaim.com/badges/d0508c70-4a97-4497-8d55-a2b27dd162a5)
 
 **Master's degree** 2018  
-Southern Federal University, Rostov-on-Don  
-Department of Physics, Applied Informatics in Science Education
+Southern Federal University, Rostov-on-Don,
+Department of Physics, Applied Informatics in Science Education.
 
 **Bachelor's degree** 2015  
-Southern Federal University, Rostov-on-Don  
-Department of High Technology, Information Systems and Technologies
+Southern Federal University, Rostov-on-Don,
+Department of High Technology, Information Systems and Technologies.
 
 </div>
