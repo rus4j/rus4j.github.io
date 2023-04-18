@@ -160,11 +160,11 @@ Java, Spring, JDBC, Vaadin.
 [OCP, Java SE 8 Programmer (1Z0-809)](https://www.youracclaim.com/badges/d0508c70-4a97-4497-8d55-a2b27dd162a5)
 
 **Master's degree** 2018  
-Southern Federal University, Rostov-on-Don,
+Southern Federal University, Rostov-on-Don,<br>
 Department of Physics, Applied Informatics in Science Education.
 
 **Bachelor's degree** 2015  
-Southern Federal University, Rostov-on-Don,
+Southern Federal University, Rostov-on-Don,<br>
 Department of High Technology, Information Systems and Technologies.
 
 </div>
