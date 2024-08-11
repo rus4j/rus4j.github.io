@@ -1,14 +1,22 @@
+/*@font-face {*/
+/*    font-family: 'Cambria';*/
+/*    src: local('Cambria Regular'), local('Cambria-Regular'),*/
+/*    url('../fonts/Cambria.ttf') format('truetype');*/
+/*    font-weight: 300;*/
+/*    font-style: normal;*/
+/*}*/
+
 @font-face {
-    font-family: 'Cambria';
-    src: local('Cambria Regular'), local('Cambria-Regular'),
-    url('../fonts/Cambria.ttf') format('truetype');
+    font-family: 'Arial';
+    src: local('Arial Regular'), local('Arial-Regular'),
+    url('../fonts/ARIAL.TTF') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 body {
-    font-family: "Cambria", sans-serif;
-    font-size: 1.2rem;
+    font-family: "Arial", sans-serif;
+    font-size: 1.2em;
 }
 
 .resume {
