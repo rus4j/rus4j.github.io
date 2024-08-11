@@ -4,167 +4,83 @@ title: Resume
 ---
 
 <div class="resume" markdown="1">  
-<div style="text-align: center; margin-top: -30px" markdown="1">  
-### Dibirov Ruslan
-<sup>Saint-Petersburg, Russia (open to relocate) | eto_ya08@mail.ru</sup>
+  <div style="float: left; width: 150px; height: 190px;">
+    <img src="/assets/images/face1.png" width="150" alt="avatar"/>
+  </div>
+  <div style="float: right; width: 600px; height: 150px;" markdown="1">
+<div class="title1">Ruslan Dibirov</div>
+<div class="title">Java/Kotlin developer</div>
+
+<br>
+[rus4j@mail.ru](mailto:rus4j@mail.ru)
+<br>
+[t.me/rus4j](http://t.me/rus4j)
 </div>
 
-<div class="panel" markdown="1">  
-###### Summary
-</div>
+<div style="clear: both"></div>
 
-- In Software development since 2015. Experienced in building scalable systems (mostly in **Java/Kotlin**) both from scratch and diving into an existing codebase.
-- Currently working as a Software engineer developing SaaS platform for car subscription.
+###### About me
 
-<div style="float: left; width: 400px;" markdown="1">
-<div class="panel" markdown="1">  
-###### Skills
-</div>
+- In Software development since 2015.
+- Currently working as a Software engineer at [OK.RU](https://ok.ru/)
+- Holder of Oracle certificates: [OCA](https://www.youracclaim.com/badges/8510ebc8-88c9-454e-bf23-94d2dd41a31c), [OCP](https://www.youracclaim.com/badges/d0508c70-4a97-4497-8d55-a2b27dd162a5)
+- Contributor to StackOverflow ([6k+ profile](https://stackoverflow.com/users/5108737/ruslan?tab=profile))
+- Bachelor’s (2015) and Master's (2018) in Computer Science, [SFedU](https://en.wikipedia.org/wiki/Southern_Federal_University) 
 
-**Languages** : Java, Kotlin, JS, TypeScript, SQL
-**Technologies**: Spring stack, Reactive stack, Hibernate, REST, GRPC, JSF, JUnit, Gradle/Maven, ReactJS
-**Tools**: CI Tools/GitLab, Stash, OpenShift, Docker
-**Source Control**: Git, SVN  
-**Data Bases**: Oracle/PostgreSQL/SQLServer
+<div style="clear: both"></div>
 
-</div>
+###### Last Work Experience
 
-<div style="float: right; width: 400px;" markdown="1">
-<div class="panel" markdown="1">  
-###### Accomplishments
-</div>
+<div class="date">2023 -<br>Present</div>
+<div class="work_position" markdown="1">
 
-- Split a monolithic system into microservices.
-- Organize developers into small feature teams.
-- Simplified working SCRUM process.
-- Significant tech contribution to the expansion of the business in the international market.
+**[OK.RU](https://ok.ru/)**<br>
+Maintain [API](https://apiok.ru/en/) of OK portal, working on Apps/Games platform.
+- Implement moments publication from the apps.
+- Building up accounting service for game developers.
+- Building up games health check monitoring service.
+- Create spring-boot starter for OAuth2 authorization in internal provider.
 
+Java, Cassandra, PostgreSQL
 </div>
 <div style="clear: both"></div>
 
-<div class="panel" markdown="1">  
-###### Work Experience
-</div>
-
-<div class="date">May 2022 - <br>Present</div>
+<div class="date">2022 -<br> 2023</div>
 <div class="work_position" markdown="1">
 
-**<u>Senior Software Engineer</u>**, _BelkaCar (Rexalto)_, Saint-Petersburg, Russia  
-Working on Subscription project of BelkaCar company, that later evolved into a separate business (Rexalto).
+**[BelkaCar](https://belkacar.ru/)**<br>
+Working on CarSubscription project, that evolved into a separate business for international market ([Rexalto](https://www.rexalto.tech/)).
 
-- Impelementation/Adjustment of the functionality necessary to enter the international market.
-- Integration with payment service, KYC solutions.
+- Implement DSL used in unit/integration tests (3k+ test cases)
+- Integration with [KYC](https://sumsub.com/kyc-compliance/) solutions.
 
 Kotlin, Spring/Reactive stack, CQRS, DDD, MySQL.
 
 </div>
 <div style="clear: both"></div>
 
-<div class="date">May 2021 - <br>May 2022</div>
+<div class="date">2021 -<br> 2022</div>
 <div class="work_position" markdown="1">
 
-**<u>Tech Lead Engineer</u>**, _Sber_, Saint-Petersburg, Russia  
-Working on B2B investment platform in CIB (Corporate Investment Business) department of the largest national bank.
+**[Sber](https://www.sberbank.com/index)**  
+Working on B2B investment platform.
 
 - Leading the process of decomposing monolithic application into microservices.
-- Acted as a people manager:
-
-  - Helping to split a big team (~10+ members) into small feature teams.
-  - Optimizing working process by reducing number of unnecesary meetings.
-  - Conducting technical interviews.
-  - Conducting workshops on technical topics.
-  - Managing 1to1/feedback meetings, grading team members at the end of the querter.
+- Acted as a people manager.
 
 Java/Kotlin, Spring/Hibernate, OpenShift, Kafka, PostgreSQL.
 
 </div>
 <div style="clear: both"></div>
 
-<div class="date">May 2019 - <br>May 2021</div>
+<div class="date">2019 -<br> 2021</div>
 <div class="work_position" markdown="1">
 
-**<u>Senior Software Engineer</u>**, _Nexign_, Saint-Petersburg, Russia  
-Developing CRM system for leading telecommunication provider
-
-- Implementing and maintaining new microservices per business needs.
-- Development of new functionality in java/kotlin code base.
-- Close work with business analysts, clarification of requirements.
-- Optimizing reporting system (PL/SQL).
-
+**[Nexign](https://nexign.com/)**  
+Developing CRM system for leading telecommunication provider.<br>
 Java/Kotlin, Spring/Hibernate, OracleDB.
 
 </div>
 <div style="clear: both"></div>
-
-<div class="date">Sept. 2017 - <br>Apr. 2020</div>
-<div class="work_position" markdown="1">
-
-**<u>FullStack Software Developer (remote)</u>**, _Fusion Connect_, USA  
-Working mainly on web application development with legacy code as well as extending the application with new functionality
-
-- Moved some parts of monolithic app to microservices.
-- Built a client for conferencing platform from scratch.
-- Set up environment for JUnit testing.
-
-Java/JSF, JBoss/Seam/Hibernate stack, MSSQL.
-
-</div>
-<div style="clear: both"></div>
-
-<div class="date">Jun. 2016 - <br>May 2019</div>
-<div class="work_position" markdown="1">
-
-**<u>FullStack Software Developer (part time)</u>**, _JBalance_, Rostov-on-Don, Russia  
-Developing cloud service for catering/farm automation
-
-- Implementing REST/SOAP webServices.
-
-Jboss/RichFaces/Hibernate/WebService, Angular, Spring.
-
-</div>
-<div style="clear: both"></div>
-
-<div class="date">Nov. 2017 - <br>Oct. 2018</div>
-<div class="work_position" markdown="1">
-
-**<u>Research fellow</u>**, _Southern Federal University_, Rostov-on-Don, Russia  
-Tech support
-
-- Set up a cluster with 5 power nodes for uptime.
-- Implemented reporting automation system.
-- Taught the team how to use Kanban board (Trello).
-
-Linux, Java.
-
-</div>
-<div style="clear: both"></div>
-
-<div class="date">Jun. 2016 - <br>Sept. 2017</div>
-<div class="work_position" markdown="1">
-
-**<u>Software developer</u>**, _Devexperts_, Rostov-on-Don, Russia  
-Developing highly loaded systems, administrative panels and web services.  
-Java, Spring, JDBC, Vaadin.
-
-</div>
-
-<div style="clear: both"></div>
-<div class="panel" markdown="1">
-
-###### Education
-
-</div>
-
-**Certificates**  
-[OCA, Java SE 8 Programmer (1Z0-808)](https://www.youracclaim.com/badges/8510ebc8-88c9-454e-bf23-94d2dd41a31c)  
-[OCP, Java SE 8 Programmer (1Z0-809)](https://www.youracclaim.com/badges/d0508c70-4a97-4497-8d55-a2b27dd162a5)
-
-**Master's degree** 2018  
-Southern Federal University, Rostov-on-Don,<br>
-Department of Physics, Applied Informatics in Science Education.
-
-**Bachelor's degree** 2015  
-Southern Federal University, Rostov-on-Don,<br>
-Department of High Technology, Information Systems and Technologies.
 
 </div>

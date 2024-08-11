@@ -1,13 +1,22 @@
+@font-face {
+    font-family: 'Cambria';
+    src: local('Cambria Regular'), local('Cambria-Regular'),
+    url('../fonts/Cambria.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
 body {
     font-family: "Roboto Light", sans-serif;
+    font-size: 1.2rem;
 }
 
 .resume {
-    font-size: 16px;
+
 }
 
 .work_position {
-    width: 82%;
+    width: 87%;
     float: right;
 }
 
@@ -18,7 +27,6 @@ body {
 
 .date {
     float: left;
-    font-weight: bold;
 }
 
 sup {
@@ -49,6 +57,25 @@ a.header_link:hover {
 li.active a {
     color: darkgray;
     cursor: default;
+}
+
+.main_line {
+    border: none;
+    height: 5px;
+    color: #aabdbe;
+    background-color: #aabdbe;
+}
+
+.title1 {
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 14px;
+    filter: opacity(0.4) drop-shadow(0 0 0 darkgray);
+    vertical-align: middle;
 }
 
 .gray {

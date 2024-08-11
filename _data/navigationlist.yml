@@ -2,8 +2,8 @@ navigation:
   - title: Home
     url: /
 
-  - title: Resume
-    url: /static/resume.html
+#  - title: Resume
+#    url: /static/resume.html
 
   - title: About
     url: /static/about.html
