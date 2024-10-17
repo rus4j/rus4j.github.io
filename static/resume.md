@@ -36,7 +36,7 @@ title: Resume
 
 **[OK.RU](https://ok.ru/)**<br>
 Maintain [API](https://apiok.ru/en/) of OK portal, working on Apps/Games platform.
-- Implement moments publication from the apps.
+- Implement [moments publication](https://apiok.ru/apps/updates/releases/post_moment_in_games) from the apps.
 - Building up accounting service for game developers.
 - Building up games health check monitoring service.
 - Create spring-boot starter for OAuth2 authorization in internal provider.
