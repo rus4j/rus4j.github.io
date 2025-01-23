@@ -35,11 +35,11 @@ title: Resume
 <div class="work_position" markdown="1">
 
 **[OK.RU](https://ok.ru/)**<br>
-Maintain [API](https://apiok.ru/en/) of OK portal, working on Apps/Games platform.
-- Implement [moments publication](https://apiok.ru/apps/updates/releases/post_moment_in_games) from the apps.
-- Building up accounting service for game developers.
-- Building up games health check monitoring service.
-- Create spring-boot starter for OAuth2 authorization in internal provider.
+Maintaining [API](https://apiok.ru/en/) of OK portal, working on Apps/Games platform.
+- Taking part in the release of [OK dating app](https://ria.ru/20250122/ok-1994876919.html) as backend engineer.
+- Implementing [moments publication](https://apiok.ru/apps/updates/releases/post_moment_in_games) from applications.
+- Building up a few internal services (accounting service, games health check monitoring service).
+- Creating spring-boot starter for OAuth2 authorization in internal provider.
 
 Java, Cassandra, PostgreSQL
 </div>
@@ -51,8 +51,8 @@ Java, Cassandra, PostgreSQL
 **[BelkaCar](https://belkacar.ru/)**<br>
 Working on CarSubscription project, that evolved into a separate business for international market ([Rexalto](https://www.rexalto.tech/)).
 
-- Implement DSL used in unit/integration tests (3k+ test cases)
-- Integration with [KYC](https://sumsub.com/kyc-compliance/) solutions.
+- Implementing DSL used in unit/integration tests (3k+ test cases)
+- Integrating with [KYC](https://sumsub.com/kyc-compliance/) solutions.
 
 Kotlin, Spring/Reactive stack, CQRS, DDD, MySQL.
 
@@ -66,7 +66,7 @@ Kotlin, Spring/Reactive stack, CQRS, DDD, MySQL.
 Working on B2B investment platform.
 
 - Leading the process of decomposing monolithic application into microservices.
-- Acted as a people manager.
+- Acting as a people manager.
 
 Java/Kotlin, Spring/Hibernate, OpenShift, Kafka, PostgreSQL.
 
