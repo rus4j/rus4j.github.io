@@ -10,7 +10,7 @@ color: gray
 <h2><a class="header_link" href="{{ post.url }}">{{ post.title }}</a></h2>
 <sup>{{ post.date | date: "%-d %B %Y" }}</sup>
 <br>
-{{ post.description }}
+<span style="font-size: 16px">{{ post.description }}</span>
 <br>
 </div>    
 
