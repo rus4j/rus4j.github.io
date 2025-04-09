@@ -7,16 +7,19 @@
 /*}*/
 
 @font-face {
-    font-family: 'Arial';
-    src: local('Arial Regular'), local('Arial-Regular'),
-    url('../fonts/ARIAL.TTF') format('truetype');
+    font-family: 'Inter';
+    src: local('Inter Regular'), local('Inter-Regular'),
+    url('../fonts/Inter_18pt-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
-}
+    }
 
 body {
-    font-family: "Arial", sans-serif;
-    font-size: 1.2em;
+    font-family: "Inter", sans-serif;
+    font-size: 1.1em;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #464646;
 }
 
 .resume {
@@ -41,15 +44,33 @@ sup {
     color: darkgray;
 }
 
+article {
+    padding-top: 18px;
+}
+
+h1 {
+    font-weight: 700; /* Bold */
+    font-size: 2.2rem;
+    color: #2D3748;
+    margin-bottom: 1.5rem;
+}
+
+h2 {
+    font-weight: 600; /* Semi-bold */
+    font-size: 1.8rem;
+    color: #3c4a5b;
+}
+
 a, a code {
-    color: black;
-    border-bottom: 2px black solid;
+    color: #125a9d;
+    transition: color 0.2s;
+    border-bottom: 1px #125a9d solid;
 }
 
 a:hover, a code:hover {
-    color: darkgray;
+    color: #63B3ED;
     text-decoration: none;
-    border-bottom: 2px darkgray solid;
+    border-bottom: 2px #63B3ED solid;
 }
 
 a.header_link {
