@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'Inter';
-    src: local('Inter Regular'), local('Inter-Regular'),
+    src: local('Inter Light'), local('Inter-Light'),
     url('../fonts/Inter_18pt-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
