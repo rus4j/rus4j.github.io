@@ -6,38 +6,37 @@
 /*    font-style: normal;*/
 /*}*/
 
-@font-face {
-    font-family: 'Inter';
-    src: local('Inter Light'), local('Inter-Light'),
-    url('../fonts/Inter_18pt-Light.ttf') format('truetype');
-    font-weight: 300;
-    font-style: normal;
-    }
-
 body {
-    font-family: "Inter", sans-serif;
+    /*font-family: "Inter", sans-serif;*/
     font-size: 1.1em;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 1.6;
     color: #464646;
 }
 
-.resume {
-
+.contact p {
+    margin: 0.1em 0 0;
+    filter: opacity(0.5) drop-shadow(0 0 0 darkgray);
 }
 
-.work_position {
-    width: 87%;
-    float: right;
+hr {
+    margin-bottom: 1em;
 }
 
-.work_position ul {
-    margin-top: -25px;
-    margin-bottom: 10px;
+.job {
+    margin-top: 1em;
 }
 
-.date {
-    float: left;
+.job-title {
+    font-weight: bold;
+    color: #222;
+    margin-bottom: 0;
+}
+
+.job-period {
+    font-size: 0.85em;
+    color: #777;
+    margin-bottom: 1em;
 }
 
 sup {
