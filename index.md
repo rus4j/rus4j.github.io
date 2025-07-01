@@ -8,7 +8,7 @@ color: gray
 
 <div class="post_wrapper">
 <h2><a class="header_link" href="{{ post.url }}">{{ post.title }}</a></h2>
-<sup>{{ post.date | date: "%-d %B %Y" }}</sup>
+<p class="meta">{{ post.date | date: "%-d %B %Y" }}</p>
 <br>
 <span style="font-size: 16px">{{ post.description }}</span>
 <br>
