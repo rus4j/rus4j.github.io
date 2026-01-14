@@ -5,7 +5,7 @@ title: Resume
 
 <div>
     <div style="float: left; width: 150px; height: 190px;">
-        <img src="/assets/images/face1.png" width="150" alt="avatar"/>
+        <img src="/assets/images/face2.png" width="150" alt="avatar"/>
     </div>
     <div style="float: right; width: 400px; height: 150px;">
         <div class="title1">Ruslan Dibirov</div>
@@ -18,7 +18,7 @@ title: Resume
     </div>
     <div style="clear: both"></div>
 
-<h5>About me</h5><hr/>
+<h6>About me</h6><hr/>
 
 <ul>
     <li>In Software development since 2015.</li>
