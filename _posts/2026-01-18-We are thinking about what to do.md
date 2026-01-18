@@ -58,7 +58,7 @@ that most large organizations simply don’t have.
 > Sometimes we need to add a button or date picker. 
 > It seems easy and fast, but in reality it takes an endless amount of time. That’s why it’s not a priority.
 
-<h4>Translation:</h4>
+<h6>Translation:</h6>
 > The system is fragile. Any change is expensive.
 
 If seemingly trivial tasks take an unreasonable amount of time, 
